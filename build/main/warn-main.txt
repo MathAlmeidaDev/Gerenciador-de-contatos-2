@@ -21,7 +21,7 @@ excluded module named _frozen_importlib - imported by importlib (optional), impo
 missing module named 'collections.abc' - imported by traceback (top-level), inspect (top-level), logging (top-level), typing (top-level), importlib.resources.readers (top-level), selectors (top-level), tracemalloc (top-level), sqlite3.dbapi2 (top-level)
 missing module named posix - imported by os (conditional, optional), posixpath (optional), shutil (conditional), importlib._bootstrap_external (conditional)
 missing module named resource - imported by posix (top-level)
+missing module named _suggestions - imported by traceback (delayed, optional)
 missing module named _posixsubprocess - imported by subprocess (conditional)
 missing module named fcntl - imported by subprocess (optional)
-missing module named _suggestions - imported by traceback (delayed, optional)
 missing module named readline - imported by code (delayed, conditional, optional), sqlite3.__main__ (delayed, conditional, optional)

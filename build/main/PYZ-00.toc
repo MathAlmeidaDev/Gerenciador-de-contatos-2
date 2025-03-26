@@ -1,4 +1,5 @@
-('C:\\Users\\Matheus\\desktop\\python\\programação\\cruds\\agenda\\build\\main\\PYZ-00.pyz',
+('C:\\Users\\Matheus\\Desktop\\Python\\Programação\\CRUDS\\Gerenciador de '
+ 'contatos 2\\build\\main\\PYZ-00.pyz',
  [('__future__',
    'C:\\Users\\Matheus\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\__future__.py',
    'PYMODULE'),
